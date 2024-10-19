@@ -1,0 +1,14 @@
+{
+  "name": "RecipeVirtualSignals",
+  "version": "0.1.0",
+  "title": "Signal & Blueprint Icons for Recipes",
+  "author": "Gohla",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base"
+  ],
+  "description": "Adds signal and blueprint icons for recipes that have a unique icon.",
+  "package": {
+    "readme": "README.md"
+  }
+}
